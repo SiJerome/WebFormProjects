@@ -1,5 +1,0 @@
-C:\Users\Rhacel Compuesto\source\repos\SalaryLoanCalculator\DataHelper\bin\Debug\DataHelper.dll
-C:\Users\Rhacel Compuesto\source\repos\SalaryLoanCalculator\DataHelper\bin\Debug\DataHelper.pdb
-C:\Users\Rhacel Compuesto\source\repos\SalaryLoanCalculator\DataHelper\obj\Debug\DataHelper.csproj.CoreCompileInputs.cache
-C:\Users\Rhacel Compuesto\source\repos\SalaryLoanCalculator\DataHelper\obj\Debug\DataHelper.dll
-C:\Users\Rhacel Compuesto\source\repos\SalaryLoanCalculator\DataHelper\obj\Debug\DataHelper.pdb
